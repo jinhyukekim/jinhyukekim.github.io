@@ -1,7 +1,7 @@
 ---
 title: "Evaporative Resistance is of Equal Importance as Surface Albedo in High-Latitude Surface Temperatures Due to Cloud Feedbacks"
 collection: publications
-permalink: /publication/2020-02-10-Evaporative-Resistance-is-of-Equal-Importance-as-Surface-Albedo-in-High-Latitude-Surface-Temperatures-Due to-Cloud-Feedbacks.md
+permalink: /publication/2020-02-10-Evaporative-Resistance-is-of-Equal-Importance-as-Surface-Albedo-in-High-Latitude-Surface-Temperatures-Due-to-Cloud-Feedbacks.md
 excerpt: ''
 date: 2020-02-10
 venue: 'Geophysical Research Letters'
