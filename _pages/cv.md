@@ -11,21 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Earth System Science, University of California, Irvine, 2024 (expected)
+* M.S. in Earth System Science, University of California, Irvine, 2022
+* B.S. in Atmospheric Sciences, University of Washington, 2019
 
-Work experience
+
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Ph.D. Candidate, 2021 - Present
+  * University of California, Irvine
+  * Advisor: Dr. James T. Randerson
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Ph.D. Student, 2019 - 2021
+  * University of California, Irvine
+  * Provisional Advisor: Dr. Isabella Velicogna
+
+* Undergraduate Student Researcher 2018 - 2019
+  * Ecoclimate Lab, University of Washington
+  * Advisor: Dr. Abigail L.S. Swann
+
+* Student assistant 2018-2019
+  * Dept. of Atmospheric Scientist, University of Washington
+  * Supervisor: Dr. John M. Wallace
+
+* Student Volunteer Summer 2017, Summer 2018
+  * Joint Institute for the Study of Atmosphere and Ocean, University of Washington
+  * Supervisor: Dr. Laura Hinkelman
   
 Skills
 ======
@@ -42,11 +53,16 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Presentations
+======
+
+
+<!-- 
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -56,4 +72,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
