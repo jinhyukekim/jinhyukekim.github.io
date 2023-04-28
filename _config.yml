@@ -84,10 +84,10 @@ author:
   avatar           : "profilepic.png"
   bio              : "PhD candidate in the Earth System Science Department looking to understand the global carbon cycle"
   location         : "Irvine, CA"
-  employer         : "University of California, Irvine"
+  employer         : "UCI"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=ncfc_ncAAAAJ"
-  email            :
+  email            : "jinhyuek@uci.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/jinhyukekim"
+  github           : "jinhyukekim"
   google_plus      :
   keybase          :
   instagram        :
